@@ -1,5 +1,5 @@
 {
-  "name": "bradybellini-v7",
+  "name": "v7",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
@@ -18,12 +18,7 @@
     "eslint-plugin-svelte3": "^3.2.1",
     "prettier": "^2.5.1",
     "prettier-plugin-svelte": "^2.5.0",
-    "svelte": "^3.46.0"
+    "svelte": "^3.44.0"
   },
-  "type": "module",
-  "dependencies": {
-    "@fontsource/fira-mono": "^4.5.0",
-    "@lukeed/uuid": "^2.0.0",
-    "cookie": "^0.4.1"
-  }
+  "type": "module"
 }
