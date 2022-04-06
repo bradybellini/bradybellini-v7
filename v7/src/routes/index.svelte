@@ -1,9 +1,5 @@
-<h1 class="text-3xl font-bold underline">Hello world!</h1>
-<div class="grid grid-cols-4 gap-4">
-    <div class="bg-slate-500">01</div>
-    <div class="bg-slate-500">01</div>
-    <div class="bg-slate-500">01</div>
-    <div class="bg-slate-500">01</div>
-    <div class="bg-slate-500">01</div>
-    <div class="bg-slate-500">01</div>
-  </div>
+<p>
+	Hey, I'm Brady, a Business Intelligence Analyst with 3+ years of data analyst experience,
+	currently looking for new opportunities. I enjoy working with interesting data and solving
+	problems with awesome tech.
+</p>
