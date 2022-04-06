@@ -30,4 +30,7 @@
 			rel="noopener">View on Github</a
 		></small
 	>
+	<div  class="-my-2">
+		<a href="/nav" class="text-xs text-b-black hover:text-gray-600">secret</a>
+	</div>
 </div>
