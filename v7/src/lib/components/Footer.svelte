@@ -1,4 +1,4 @@
-<div class="bottom-0 text-center  text-b-white m-4 pb-5 max-w-4xl mx-auto">
+<div class="font-mono bottom-0 text-center  text-b-white m-4 pb-5 max-w-4xl mx-auto">
 	<div class="text-b-white text-xs">
 		<a href="/contact" class=" hover:text-white underline">Contact</a> •
 		<a
