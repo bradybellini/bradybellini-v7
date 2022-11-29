@@ -3,4 +3,3 @@
 	problems with awesome tech.
 </p>
 <br>
-<a href="https://technonomicon.io/" class="hover:text-white underline">Subscribe to my newsletter about privacy, politics, and tech</a>
